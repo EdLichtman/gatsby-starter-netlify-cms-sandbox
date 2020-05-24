@@ -1,21 +1,15 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Welcome to my test!
+image: /img/domes.jpg
+heading: Welcome to my test!
+subheading: A fairly simply way to manage your own content
 mainpitch:
-  title: Why Kaldi
+  title: Why Gatsby
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Gatsby uses ReactJS, so it requires some basic web development, but once you have your template set up, you can make most of your changes in Markdown.
+
+    In addition, it's free to create on your own, and since there's no need for data to come from the Server, it can be hosted for free on netlify.com
 intro:
   blurbs:
     - image: /img/coffee.png
